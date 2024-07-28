@@ -5,7 +5,9 @@
 
 Friends and classmates, if you're reading this, thanks for checking out my portfolio! (please don't clown me though 🤫) 
 
-# --------------------------------- About Me ---------------------------------
+---
+
+# 👨‍🦲 About Me:
 ### UCSB 2026, Statistics and Data Science B.S.
 I'm not crazy with coding by any means, nevertheless this seems like a convenient place to show off some of the stuff I've worked on. **Hoping to change that starting now as I apply myself with more challenging roles and projects!**
 
@@ -15,9 +17,9 @@ I'm not crazy with coding by any means, nevertheless this seems like a convenien
 - ❤️ Other likes: Piano, crashing at my friends' places, Chinese (Sichuan) food...
 - 🎹 Fun fact: I love classical music and I'm on a journey to learn all the Chopin Etudes (*6/24* as of 7-28-24)
 
+---
 
-
-## --------------------------------------- 🛠️ Languages and Tools ------------------------------------
+# 🛠️ Languages and Tools:
 ### Proficient:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -44,8 +46,9 @@ I'm not crazy with coding by any means, nevertheless this seems like a convenien
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
 </div>
 
+---
 
-## -------------------------------------------- 🔥 My Stats ---------------------------------------------
+# 🔥 My Stats:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=smashthategg)](https://git.io/streak-stats)
 
