@@ -3,10 +3,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-Friends and classmates, if you're reading this, thanks for checking out my portfolio! (please don't clown me though 🤫) 
-
----
-
 # 👨‍🦲 About Me:
 ### UCSB 2026, Statistics and Data Science B.S.
 I'm not crazy with coding by any means, nevertheless this seems like a convenient place to show off some of the stuff I've worked on. **Hoping to change that starting now as I apply myself with more challenging roles and projects!**
