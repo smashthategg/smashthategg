@@ -5,12 +5,12 @@
 
 # 👨‍🦲 About Me:
 ### UCSB 2026, Statistics and Data Science B.S.
-I'm not crazy with coding by any means, nevertheless this seems like a convenient place to show off some of the stuff I've worked on. **Hoping to change that starting now as I apply myself with more challenging roles and projects!**
+Here is a convenient place to show off some of the stuff I've worked on.
 
-- 🔭 Thus far I've been floating around service jobs and volunteer mentoring gigs.
+- 🔭 Thus far I've been floating around service jobs and volunteering gigs.
 - 🌱 Meanwhile exploring several technical skills, mainly focusing on **data visualization** and **analytics**.
 - ⚡ In my free coding time (see my repos), I enjoy automating my favorite video games and gathering + studying player data to improve my own strategy!
-- ❤️ Other likes: Piano, crashing at my friends' places, Chinese (Sichuan) food...
+- ❤️ Other likes: Piano, crashing at my friends' places, Sichuan cuisine
 - 🎹 Fun fact: I love classical music and I'm on a journey to learn all the Chopin Etudes (*6/24* as of 7-28-24)
 
 ---
